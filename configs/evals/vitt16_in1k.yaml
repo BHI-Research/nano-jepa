@@ -4,8 +4,8 @@ tag: in1k-16f
 eval_name: image_classification_frozen
 resume_checkpoint: false
 data:
-  root_path: /home/your-user/ML-datasets/image_datasets/imagenet-mini/
-  image_folder: n061417
+  root_path: /home/your-user/ML-datasets/image_datasets/
+  image_folder: imagenet-mini
   num_classes: 10
   resolution: 224
   dataset_name: ImageNet
