@@ -139,7 +139,7 @@ Here is a list of checkpoints available for experimentation:
     <td>0.5</td>
     <td>99.50</td>
     <td>6</td>
-    <td rowspan="3">V-JEPA ViT-L (see V-JEPA site)</td>
+    <td rowspan="3">V-JEPA ViT-L (<a href="https://github.com/facebookresearch/jepa" target="_blank" rel="noopener noreferrer">see V-JEPA site</a>)</td>
   </tr>
   <tr>
     <td>E (<a href="https://drive.google.com/file/d/15GoHxhB7NawX55E1hTaPJSCsj00GyPIC/view?usp=sharing" target="_blank" rel="noopener noreferrer">download</a>)</td>
