@@ -67,7 +67,27 @@ A set of config files are provided in this repo. Change the paths ins the *.yaml
 (nano-jepa)$ python -m evals.eval_features 
 ```
 
-## Checkpopints
+## Authors
+
+Paper:
+
+* Title: "nano-JEPA: Democratizing Video Understanding with Personal Computers"
+* Authors: Adrián Rostagno, Javier Iparraguirre, Joel Ermantraut, Lucas Tobio, Segundo Foissac, Santiago Aggio, Guillermo Friedrich
+* Event: XXV WASI – Workshop Agentes y Sistemas Inteligentes, CACIC.
+* Year: 2024.
+
+Bibtex:
+
+```
+@inproceedings{ermantraut2020resolucion,
+     title={nano-JEPA: Democratizing Video Understanding with Personal Computer},
+     author={Adrian Rostagno and Javier Iparraguirre and Joel Ermantraut and Lucas Tobio and Segundo Foissac and Santiago Aggio and Guillermo Friedrich},
+     booktitle={XXV WASI – Workshop Agentes y Sistemas Inteligentes, CACIC},
+     year={2024}
+}
+```
+
+### Checkpopints
 
 Here is a list of checkpoints available for experimentation:
 
@@ -140,21 +160,3 @@ Here is a list of checkpoints available for experimentation:
     <td>6</td>
   </tr>
 </tbody></table>
-
-## Authors
-
-Paper: 
-* Title: "nano-JEPA: Democratizing Video Understanding with Personal Computers"
-* Authors: Adrián Rostagno, Javier Iparraguirre, Joel Ermantraut, Lucas Tobio, Segundo Foissac, Santiago Aggio, Guillermo Friedrich
-* Event: XXV WASI – Workshop Agentes y Sistemas Inteligentes, CACIC.
-* Year: 2024.
-
-Bibtex:
-```
-@inproceedings{ermantraut2020resolucion,
-     title={nano-JEPA: Democratizing Video Understanding with Personal Computer},
-     author={Adrian Rostagno and Javier Iparraguirre and Joel Ermantraut and Lucas Tobio and Segundo Foissac and Santiago Aggio and Guillermo Friedrich},
-     booktitle={XXV WASI – Workshop Agentes y Sistemas Inteligentes, CACIC},
-     year={2024}
-}
-```
