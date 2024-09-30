@@ -71,6 +71,76 @@ A set of config files are provided in this repo. Change the paths ins the *.yaml
 
 Here is a list of checkpoints available for experimentation:
 
+<table><thead>
+  <tr>
+    <th>Model</th>
+    <th>Classes</th>
+    <th>Train Videos</th>
+    <th>Val videos</th>
+    <th>Ratio</th>
+    <th>Accuracy</th>
+    <th>Epochs</th>
+    <th>Pre-train</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>A (<a href="https://drive.google.com/file/d/15447D6EZkSty0DN-NKR8xJofddPdxLk9/view?usp=sharing" target="_blank" rel="noopener noreferrer">download</a>)</td>
+    <td>4</td>
+    <td>100</td>
+    <td>50</td>
+    <td>0.5</td>
+    <td>45.50</td>
+    <td>20</td>
+    <td rowspan="3"><a href="https://drive.google.com/file/d/146WMCv_2S62MgB7MUNaeVuX4YOzmhAXF/view?usp=sharing" target="_blank" rel="noopener noreferrer">nano-JEPA ViT-T 800 videos(download)</a></td>
+  </tr>
+  <tr>
+    <td>B (<a href="https://drive.google.com/file/d/14ySiG4ygDifN04PHGDjBJFTqVaLMCW6o/view?usp=sharing" target="_blank" rel="noopener noreferrer">download</a>)</td>
+    <td>4</td>
+    <td>25</td>
+    <td>12</td>
+    <td>0.48</td>
+    <td>35.41</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>C (<a href="https://drive.google.com/file/d/14wnOom9gzR9ATNXEBfLPyAyHsICqE4ep/view?usp=sharing" target="_blank" rel="noopener noreferrer">download</a>)</td>
+    <td>8</td>
+    <td>100</td>
+    <td>50</td>
+    <td>0.5</td>
+    <td>41.50</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>D (<a href="https://drive.google.com/file/d/155lxtyI4HI-c3KaxJy-FCnq8CgkHmGCJ/view?usp=sharing" target="_blank" rel="noopener noreferrer">download</a>)</td>
+    <td>4</td>
+    <td>100</td>
+    <td>50</td>
+    <td>0.5</td>
+    <td>99.50</td>
+    <td>6</td>
+    <td rowspan="3">V-JEPA ViT-L (see V-JEPA site)</td>
+  </tr>
+  <tr>
+    <td>E (<a href="https://drive.google.com/file/d/15GoHxhB7NawX55E1hTaPJSCsj00GyPIC/view?usp=sharing" target="_blank" rel="noopener noreferrer">download</a>)</td>
+    <td>4</td>
+    <td>25</td>
+    <td>12</td>
+    <td>0.48</td>
+    <td>91.66</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>F (<a href="https://drive.google.com/file/d/15IAmP901nkItvi2QcEqyi7ATSPdxwBcI/view?usp=sharing" target="_blank" rel="noopener noreferrer">download</a>)</td>
+    <td>8</td>
+    <td>100</td>
+    <td>50</td>
+    <td>0.5</td>
+    <td>94.25</td>
+    <td>6</td>
+  </tr>
+</tbody></table>
+
 ## Authors
 
 Paper: 
