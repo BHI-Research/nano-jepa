@@ -19,22 +19,7 @@ nano-JEPA: a Video Joint Embedding Predictive Architecture that runs in a regula
 
 ## System directories
 
-Consider using the [nano-datasets](https://github.com/BHI-Research/nano-datasets) tool to create your local configuration. Here is how your local filesystem
-should be organized:
-
-```bash
-(base) $ tree -d
-.
-├── image_datasets
-│         ├── imagenet_full_size
-│         ├── imagenet-mini
-└── video_datasets
-    └── k400
-        ├── train
-        └── val
-```
-
-At least, two paths must be provided.
+Consider using the [nano-datasets](https://github.com/BHI-Research/nano-datasets) tool to create your local dataset.
 
 ### Dataset location path, k400 dataset example
 
